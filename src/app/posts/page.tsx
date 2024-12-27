@@ -1,3 +1,4 @@
+import Form from "@/components/form";
 import PostsList from "@/components/posts-list";
 import { Suspense } from "react";
 
